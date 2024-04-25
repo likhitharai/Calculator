@@ -3,5 +3,7 @@ Powered by HTML, CSS, and JavaScript, this app offers a user-friendly interface 
 Whether you're crunching numbers for work, school, or everyday tasks, our calculator provides quick and accurate results at your fingertips. 
 With responsive design and intuitive controls, it's the perfect tool for calculations on the go. 
 Experience the convenience of modern computing with our HTML/CSS/JavaScript calculator app.
+Do checkout the screenshot of the app below. Please feel free to click on the below link and experince the live website
+Website link:
 
 ![image](https://github.com/likhitharai/Calculator/assets/38128585/aeddca68-9ac6-4362-9a4b-a6fee07de7f4)
